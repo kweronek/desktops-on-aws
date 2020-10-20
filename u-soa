@@ -1,0 +1,14 @@
+# Installation auf Ubuntu 20.04 für SOA WS20/21
+
+# erforderlich:
+sudo snap istnall go --classic
+sudo snap install goland --classic
+sudo snap install postman
+sudo snap install docker
+
+# optional:
+sudo apt install make
+sudo apt install gcc
+sudo apt install g++
+sudo apt install pkg-config
+sudo apt install libseccomp-dev
