@@ -1,8 +1,8 @@
-# pc4aws
+# pcconfig
 PCs on AWS for personal and exercise use
 
 ## u-base
-Ubuntu 20.04 with VNC
+Ubuntu 20.04 with KDE & VNC
 
 ## u-edge
 Ubuntu 20.04 everything and experimental stuff (cncf)
