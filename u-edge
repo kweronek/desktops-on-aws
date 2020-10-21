@@ -1,10 +1,47 @@
-# u-edge
+# Installation auf Ubuntu 20.04
 
-sudo apt get install golang-go
-sudo apt-get install build-essential make libseccomp-dev
+# IDEs
+sudo snap install goland --classic
 
+# GUI-Clients
+sudo snap install postman
+
+# Compiler
+sudo apt install gcc
+sudo apt install g++
+sudo snap install go --classic
+# sudo apt get install golang-go
+## Python3
+
+# Build
+sudo apt install make
+sudo apt install pkg-config
+sudo apt int all build essential
+sudo apt install libseccomp-dev
+
+# low-level Runtimes
+## runc
 git clone https://github.com/opencontainers/runc
 cd runc
 make
 sudo make install
 
+## containerd
+## cri
+
+
+# Container Managemment, build and high-level Runtimes
+## Docker
+sudo snap install docker
+## Podman
+## Buildah
+## Skopeo
+## K3c
+## Java
+
+# CLIs
+## kubectl
+## crictl
+## kubeadm
+## etcdctl
+## awsctl
