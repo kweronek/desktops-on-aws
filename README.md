@@ -1,4 +1,4 @@
-# pcconfig
+# Desktops on AWS
 PCs on AWS for personal and exercise use
 
 ## u-base
